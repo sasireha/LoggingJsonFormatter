@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xIelMl4wlSfG8vrH1h8YhAWFSa+Rau2UqArGggQaF8wi8kF/h9qgXNStpmvAWWmkGudvV4dkdhDJmQX/f/cB9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Tasks\\Logging\\JsonFormatter\\JsonFormatter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ssundaresan_AeZ\\.nuget\\packages\\serilog\\2.9.0\\serilog.2.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

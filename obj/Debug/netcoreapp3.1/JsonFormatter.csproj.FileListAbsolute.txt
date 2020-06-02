@@ -1,0 +1,5 @@
+C:\Projects\Tasks\Logging\JsonFormatter\bin\Debug\netcoreapp3.1\JsonFormatter.deps.json
+C:\Projects\Tasks\Logging\JsonFormatter\bin\Debug\netcoreapp3.1\JsonFormatter.dll
+C:\Projects\Tasks\Logging\JsonFormatter\obj\Debug\netcoreapp3.1\JsonFormatter.csprojAssemblyReference.cache
+C:\Projects\Tasks\Logging\JsonFormatter\obj\Debug\netcoreapp3.1\JsonFormatter.AssemblyInfoInputs.cache
+C:\Projects\Tasks\Logging\JsonFormatter\obj\Debug\netcoreapp3.1\JsonFormatter.AssemblyInfo.cs
